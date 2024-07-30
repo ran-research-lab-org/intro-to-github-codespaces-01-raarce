@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/workspaces/intro-to-github-codespaces-01-raarce/build",
+  "command": "/usr/bin/c++   -I/Users/rarce/ccom3034  -g   -std=gnu++14 -o CMakeFiles/main.dir/main.cpp.o -c /workspaces/intro-to-github-codespaces-01-raarce/main.cpp",
+  "file": "/workspaces/intro-to-github-codespaces-01-raarce/main.cpp"
+},
+{
+  "directory": "/workspaces/intro-to-github-codespaces-01-raarce/build",
+  "command": "/usr/bin/c++   -I/Users/rarce/ccom3034  -g   -std=gnu++14 -o CMakeFiles/main.dir/BST.cpp.o -c /workspaces/intro-to-github-codespaces-01-raarce/BST.cpp",
+  "file": "/workspaces/intro-to-github-codespaces-01-raarce/BST.cpp"
+}
+]
