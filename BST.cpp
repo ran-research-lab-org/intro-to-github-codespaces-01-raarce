@@ -3,6 +3,8 @@
 // And edited NOW!
 // And Now too!
 
+//// soy tu instructor - buen trabajo
+
 #include "BST.h"
 #include <iostream>
 using namespace  std;
