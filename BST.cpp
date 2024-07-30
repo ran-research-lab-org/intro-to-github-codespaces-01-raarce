@@ -1,7 +1,7 @@
 //
 // Created by Rafael Arce Nazario on 11/17/20.
 // And edited NOW!
-//
+// And Now too!
 
 #include "BST.h"
 #include <iostream>
